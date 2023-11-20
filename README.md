@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/anbuselvamA/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559871/aedb7c60-74ee-43b8-8627-eceee5811921)
+![image](https://github.com/anbuselvamA/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559871/f40930b8-8c04-44a5-b5a2-9e333193ade1)
+
 
 ### Name: A.Anbuselvam
 ### Register Number:212222240009
